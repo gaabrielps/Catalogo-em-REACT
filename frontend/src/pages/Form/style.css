@@ -10,6 +10,7 @@
 
 .dsmovie-form-group {
     margin-bottom: 20px;
+    flex-direction: re;
 }
 
 .dsmovie-form-group label {
